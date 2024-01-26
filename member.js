@@ -1,4 +1,4 @@
 // Remove the unused import declaration
-function skillMember() {
+function skillsMember() {
     // function implementation goes here
 }
